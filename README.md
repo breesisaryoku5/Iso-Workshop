@@ -209,4 +209,4 @@ ISO Workshop is the **complete free version** with all features and updates incl
 Ready to manage your ISO images with ease? **Download ISO Workshop now and experience the difference!**
 
 ---
-**Last updated:** 2026-10-27 01:05:34 UTC
+**Last updated:** 2026-10-27 07:15:33 UTC
